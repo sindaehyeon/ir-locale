@@ -1,0 +1,716 @@
+[item-group-name]
+deadlock-basics= 기본 제품
+deadlock-scrapping= 분해
+deadlock-processing= 재활용
+
+[item-name]
+advanced-battery= 고용량 배터리
+advanced-engine-unit= 고급 엔진
+advanced-pollution-filter= 고급 에어 필터
+battery-discharge-equipment= 배터리 방전기 (장비)
+battery-equipment= 휴대용 배터리
+battery-mk2-equipment= MK2 휴대용 배터리
+battery= 배터리
+bronze-ball= 청동 베어링
+bronze-beam= 청동 빔
+bronze-cable= 청동 케이블
+bronze-chassis-large= 대형 청동 프레임
+bronze-chassis-small= 청동 프레임
+bronze-gear-wheel= 청동 기어
+bronze-ingot= 청동 주괴
+bronze-piston= 청동 피스톤
+bronze-plate-heavy= 강화 청동 플레이트
+bronze-plate= 청동 플레이트
+bronze-repair-tool= 청동 수리 키트
+bronze-rivet= 청동 리벳
+bronze-rod= 청동 막대
+bronze-tube= 청동 파이프
+bronze= 청동
+carbon-cable= 초전도 케이블
+carbon-gravel= 석탄
+carbon-ore= 석탄
+carbon-plate= 탄소 섬유 시트
+carbon-powder= 탄소 분말
+carbon= 탄소
+charcoal= 숯
+charged-advanced-battery= 대용량 충전 배터리
+charged-battery= 충전 된 배터리
+chromic-acid= 크롬산
+chromium-ball= 크롬 철 베어링
+chromium-cable= 크롬 철 케이블
+chromium-gear-wheel= 크롬 철 기어
+chromium-ingot= 크롬 주괴
+chromium-piston= 크롬 철 피스톤
+chromium-plate-heavy= 강화 크롬 도금 강판
+chromium-plate= 크롬 강판
+chromium-powder= 크롬 파우더
+chromium-pure= 정제 된 크롬
+chromium-rivet= 크롬 철 리벳
+chromium-rod= 크롬 강철 막대
+chromium-tube= 크롬 쇠 파이프
+computer-mk1= 컴퓨터
+computer-mk2= 고급 컴퓨터
+computer-mk3= 광 컴퓨터
+controller-mk1= 논리 컨트롤러
+controller-mk2= 고급 컨트롤러
+controller-mk3= 광 컨트롤러
+copper-ball= 구리 베어링
+copper-beam= 구리 빔
+copper-cable-heavy= 무거운 구리 케이블
+copper-cable= 구리 케이블
+copper-cartridge= 구리 카트리지
+copper-chassis-large= 대형 구리 프레임
+copper-chassis-small= 구리 프레임
+copper-foil= 구리 코일
+copper-gear-wheel= 구리 기어
+copper-gravel= 분쇄 된 구리 광석
+copper-ingot= 구리 주괴
+copper-magazine= 구리 탄창
+copper-motor= 연료 엔진
+copper-ore= 구리 광석
+copper-piston= 구리 피스톤
+copper-plate-heavy= 강화 구리판
+copper-plate= 구리 판
+copper-powder= 구리 분말
+copper-pure= 정제 된 구리
+copper-repair-tool= 구리 수리 키트
+copper-rivet= 구리 리벳
+copper-rod= 구리 막대
+copper-tube= 구리 파이프
+copper= 구리
+data-storage= 디스크 어레이
+deadlock-power-armor-mk3= 파워 아머 MK3
+diamond-gem= 다이아몬드
+duranium-ball= 듀라늄 베어링
+duranium-beam= 듀라늄 빔
+duranium-bulkhead= 듀라늄 벌크 헤드
+duranium-cable= 듀라늄 케이블
+duranium-chassis-large= 대형 듀라늄 프레임
+duranium-chassis-small= 듀라늄 프레임
+duranium-ingot= 듀라늄 주괴
+duranium-plate-heavy= 강화 된 듀라늄 판
+duranium-plate= 듀라늄 판
+duranium-ring= 듀라늄 링
+duranium-rivet= 듀라늄 리벳
+duranium-rod= 듀라늄막대
+duranium-tube= 듀라늄 파이프
+duranium= 듀라늄
+electric-engine-unit= 전동기
+emerald-gem= 에메랄드
+engine-unit= 엔진
+field-effector= 전계 발생기(코일)
+fusion-reactor-equipment= 소형 핵분열 반응기 (장비)
+glass-cable-heavy= 연선 광섬유 케이블
+glass-cable= 광섬유 케이블
+glass-ingot= 유리 주괴
+glass-lens= 렌즈
+glass-plate= 유리판
+glass-rod= 유리 막대
+glass= 유리
+gold-ball= 금 베어링
+gold-cable= 금 케이블
+gold-foil= 금 코일
+gold-gear-wheel= 금 기어
+gold-gravel= 분쇄 된 금 광석
+gold-ingot= 금괴
+gold-ore= 금 광석
+gold-plate-heavy= 강화 금판
+gold-plate= 금판
+gold-powder= 금 분말
+gold-pure= 정제 된 금
+gold-rivet= 금 리벳
+gold-rod= 금 막대
+gold-tube= 금 트럼펫
+gold= 금
+graphite-electrode= 흑연 전극
+gyroscope= 자이로 스코프
+impulse-probe= 임펄스 프로브
+ion-probe= 이온 프로브
+iron-ball= 철 베어링
+iron-beam= 철 빔
+iron-cable= 철 케이블
+iron-cartridge= 철 카트리지
+iron-chassis-large= 대형 철 프레임
+iron-chassis-small= 철 프레임
+iron-foil= 철 코일
+iron-gear-wheel= 철 기어
+iron-gravel= 분쇄 된 철광석
+iron-ingot= 철괴
+iron-magazine= 철 탄창
+iron-motor= 전동기
+iron-ore= 철광석
+iron-piston= 철 피스톤
+iron-plate-heavy= 강화 철판
+iron-plate= 철 판
+iron-powder= 철 분말
+iron-pure= 정제 된 철
+iron-repair-tool= 철 수리 키트
+iron-rivet= 철 리벳
+iron-stick= 철 막대
+iron-tube= 철 파이프
+iron= 철
+junction-box= 배전 박스
+laser= 레이저
+lead-ball= 납 베어링
+lead-cable= 납 케이블
+lead-chassis-large= 대형 납 프레임
+lead-chassis-small= 납 프레임
+lead-floor= 납 바닥
+lead-gear-wheel= 납 기어
+lead-ingot= 납 주괴
+lead-plate-heavy= 강화 납 플레이트
+lead-plate= 납 플레이트
+lead-powder= 납 분말
+lead-pure= 정제 된 납
+lead-rivet= 납 리벳
+lead-rod= 납 막대
+lead-tube= 납 파이프
+lead= 납
+magnetron= 마그네트론
+minigun= 미니건
+module-housing= 묘듈 하우징
+nuclear-reactor= 원자로
+physical-projectiles= 군사
+plastic-bar= 플라스틱 막대
+plastic-fluid= 플라스틱 유체 
+plastic-plate= 플라스틱 판 
+plastic-rod= 플라스틱 막대
+plastic= 플라스틱
+platinum-foil= 백금 코일
+platinum-ingot= 플래티넘 주괴
+platinum-powder= 백금 분말
+platinum-pure= 정제 된 플래티넘
+processing-unit= 광학 프로세서
+quantum-ring= 양자 장
+rocket-silo= 로켓 광산
+rubber-natural= 천연 고무
+rubber-sapling= 고무 채취 
+rubber-vulcanised= 가황 처리된 고무
+rubber-wood= 고무 나무
+ruby-gem= 루비
+sand= 모래
+sapphire-gem= 사파이어
+satellite= 궤도 위성
+sensor= 센서
+simple-pollution-filter= 단순 공기 필터
+solid-fuel-red= 석유 코크스 (저품질)
+solid-fuel-yellow= 석유 코크스 (고품질)
+solid-fuel= 석유 코크스 (최고)
+special-hat= 특별한 모자
+standard-pollution-filter= 에어 필터
+steambot= 스팀 로봇
+steel-ball= 철 베어링
+steel-beam= 철 빔
+steel-bulkhead= 철 벌크 헤드
+steel-cable= 철 케이블
+steel-cartridge= 철 카트리지
+steel-chassis-large= 대형 철 프레임
+steel-chassis-small= 철 프레임
+steel-gear-wheel= 철 기어
+steel-ingot= 철 주괴
+steel-magazine= 철 탄창
+steel-motor= 고급 모터
+steel-piston= 철 피스톤
+steel-plate-heavy= 강화 강판
+steel-plate= 강판
+steel-repair-tool= 철 수리 키트
+steel-ring= 헤비 코일
+steel-rivet= 철 리벳
+steel-rod= 강철 막대
+steel-tube= 쇠 파이프
+steel= 철
+stone-gravel= 자갈
+stone-ingot= 석재 벽돌
+stone-ore= 돌
+stone= 돌
+sulfur= 황
+tin-ball= 주석 베어링
+tin-cable= 주석 케이블
+tin-foil= 주석 호일
+tin-gear-wheel= 주석 기어
+tin-gravel= 분쇄 된 주석 광석
+tin-ingot= 주석 주괴
+tin-ore= 주석 광석
+tin-plate-heavy= 강화 주석판
+tin-plate= 주석판
+tin-powder= 주석 분말
+tin-pure= 정제 주석
+tin-rivet= 주석 리벳
+tin-rod= 주석 막대
+tin-tube= 주석 파이프
+tin= 주석
+titanium-ball= 티타늄 베어링
+titanium-beam= 티타늄 빔
+titanium-belt= 기관총 척
+titanium-bulkhead= 티타늄 벌크 헤드
+titanium-cable= 티타늄 케이블
+titanium-cartridge= 티타늄 카트리지
+titanium-chassis-large= 대형 티타늄 프레임
+titanium-chassis-small= 티타늄 프레임
+titanium-gear-wheel= 티타늄 기어
+titanium-ingot= 티타늄 주괴
+titanium-magazine= 티타늄 탄창
+titanium-piston= 티타늄 피스톤
+titanium-plate-heavy= 강화 티타늄 플레이트
+titanium-plate= 티타늄 판
+titanium-powder= 티타늄 분말
+titanium-pure= 정제 된 티타늄
+titanium-repair-tool= 티타늄 수리 키트
+titanium-rivet= 티타늄 리벳
+titanium-rod= 티타늄 막대
+titanium-tube= 티타늄 파이프
+titanium= 티타늄
+uranium-cartridge= 우라늄 카트리지
+uranium-magazine= 우라늄 탄창
+wood-beam= 목재 빔
+wood-sapling= 묘목
+iron-scrap= 철 폐기물
+copper-scrap= 구리 폐기물
+tin-scrap= 주석 폐기물
+gold-scrap= 금 낭비
+bronze-scrap= 청동 폐기물
+steel-scrap= 철 폐기물
+lead-scrap= 납 스크랩
+glass-scrap= 유리 조각
+titanium-scrap= 티타늄 스크랩
+duranium-scrap= 듀라늄 폐기물
+solder= 실납
+cartridge= 샷건 카트리지
+magazine= 상점
+belt= __ ITEM__ 티타늄-벨트 __
+
+[item-description]
+battery-discharge-equipment= 갑옷 장비에 사용하기 위해 충전 된 배터리에서 에너지를 추출합니다.
+bronze-roboport-equipment= 적은 수의 시계 드론을위한 휴대용 드론 스테이션.
+burner-generator-equipment= 개인용 고체 연료 발전기.
+filter= 오염 물질 배출을 줄입니다. 최소 오염은 20 %입니다.
+fusion-reactor-equipment= Acme 회사의 악명 높은 "미스터 리액터". 우라늄 성분으로 갑옷에 영양을 공급합니다. 폭발하지 않을 수도 있습니다.
+iron-burner-generator-equipment= 개인 고체 연료 발전기.
+steambot= 원시 시계 제작 로봇이지만 그 역할을 수행합니다.
+satellite= 위성에 로켓을 넣고 발사하면 우주 연구 패킷과 함께 돌아옵니다.
+generator-manager-tip= 설치되면 빠른 액세스 패널 (__CONTROL__deadlock-control-generator-manager__).에서 생성기 제어 전환 버튼을 활성화합니다. 설치시 연료가 필요합니다 (최대 10 개). 연료가 1 개 이상있을 때 작동합니다.
+scrap= 기타 폐기물 :
+reload-time= 재충전 시간 : [font=default][color=1,0.74,0.4]__1__[/color][/font]
+movement-penalty= 이동 페널티 : [font=default][color=1,0.74,0.4]__1__%[/color][/font]
+ammo-type= 탄약 종류 : [font=default][color=1,0.74,0.4]__1__[/color][/font]
+
+[fluid-name]
+dirty-water= 더러운 물
+plastic-fluid= 액체 플라스틱
+chromic-acid= 크롬산
+sulfuric-acid= 황산
+diluted-sulfuric-acid= 희석 된 황산
+
+[equipment-name]
+battery-discharge-equipment= 배터리 방전기 (장비)
+battery-equipment=__ITEM__battery-equipment__
+battery-mk2-equipment=__ITEM__battery-mk2-equipment__
+fusion-reactor-equipment=__ITEM__fusion-reactor-equipment__
+burner-generator-equipment=청동 발전기 (장비)
+bronze-roboport-equipment= 청동 로봇포트 (장비)
+iron-burner-generator-equipment= 철 발전기 (장비)
+
+[technology-name]
+battery-equipment=__ITEM__battery-equipment__
+battery-mk2-equipment=__ITEM__battery-mk2-equipment__
+battery= 배터리 및 충전
+deadlock-advanced-batteries= 고급 배터리
+deadlock-advanced-engine= 고급 엔진
+deadlock-arc-turret= 아크 포탑
+deadlock-autogun-turret= 포탑
+deadlock-barrelling= 배럴
+deadlock-bronze-age= 청동기 시대
+deadlock-bronze-construction= 시계 드론
+deadlock-cannon-speed= 총 속도
+deadlock-carbon-fibre= 탄소 섬유
+deadlock-chrome-age= 크롬 시대
+deadlock-chrome-plating= 크롬
+deadlock-computing= 컴퓨팅
+deadlock-concrete= 콘크리트
+deadlock-electric-locomotives= 전기 열차
+deadlock-electronics= 전자
+deadlock-filtering= 필터링
+deadlock-force-fields= 강제 필드
+deadlock-forestry= 산림
+deadlock-furnaces= 스토브
+deadlock-future-age= 미래의 시대
+deadlock-grinding= 광석 분쇄
+deadlock-holograms= 홀로그램
+deadlock-inserters= 조작기
+deadlock-inventory= 인벤토리
+deadlock-iron-age= 철기 시대
+deadlock-minigun-turret= 미니건 기관총 포탑
+deadlock-mining= 채굴
+deadlock-modules= 모듈
+deadlock-monowheel= 모노 휠
+deadlock-normal-inserter-capacity-bonus= 조작기 용량
+deadlock-nuclear-fuel=__ITEM__nuclear-fuel__
+deadlock-photon-turret-damage= 광자 총 손상
+deadlock-photon-turret= 광자 총
+deadlock-physical-turret-damage= 총알 터릿 손상
+deadlock-radar= 레이더
+deadlock-research= 고급 연구소
+deadlock-robot-battery= 드론 배터리 작동
+deadlock-rocket-speed= 로켓 발사기 속도
+deadlock-scrapping= 재활용
+deadlock-solar-energy= 태양 에너지
+deadlock-space-surveys= 우주 탐사선
+deadlock-steam-power= 증기 강도
+deadlock-steel-age= 철강 시대
+deadlock-steel-wall= 강화 강철 벽
+deadlock-storage= 저장
+deadlock-washing= 광석 세척
+energy-weapons-damage=에너지 무기 피해
+engine= 엔진
+fusion-reactor-equipment= __ ITEM__fusion-reactor-equipment__
+inserter-capacity-bonus= 삽입기 용량
+personal-roboport-equipment= 개인용 로봇포트
+physical-projectile-damage= 총알 피해
+robotics= 산업용 드론 스테이션
+sulfur-processing= 황 처리
+turrets= 샷건 포탑
+weapon-shooting-speed= 총알 무기 발사 속도
+
+[technology-description]
+battery-equipment= 휴대용 배터리. 발전기에서 충전하여 필요할 때 에너지를 방출합니다.
+battery-mk2-equipment= 개선 된 배터리. 발전기에서 충전하여 필요할 때 에너지를 방출합니다.
+battery= 전기 화학 전지에 에너지를 저장하고 필요한 경우 에너지를 방출합니다.
+deadlock-advanced-batteries= 4 배 더 많은 에너지를 저장하는 우수한 납 구리 배터리.
+deadlock-advanced-engine= 더 강력한 엔진. 더 나은 : 그것은 반짝입니다!
+deadlock-arc-turret= 전기 방전으로 상대를 마비시킵니다.
+deadlock-autogun-turret= 총을 가진 귀환 포탑.
+deadlock-barrelling= 액체를 배럴로 이동시킵니다.
+deadlock-bronze-age= 원래 성분을 초과하는 특성을 가진 새로운 재료를 발견하십시오.
+deadlock-bronze-construction= 시끄러운 소리가 나지만 작동하는 것 같습니다. 건축에 도움이됩니다.
+deadlock-cannon-speed= 탱크의 발사 속도가 증가합니다.
+deadlock-carbon-fibre= 고급 합성 직물. 매우 튼튼하고 유연한 소재.
+deadlock-chrome-age= 크롬 도금을 사용하여 철강 부품에 강도를 부여합니다. 크롬산은 또한 우수한 세정제입니다.
+deadlock-computing= 더 복잡한 논리 게이트.
+deadlock-concrete= 매우 유용한 건축 자재. 안녕히 가세요..(??? 무엇)
+deadlock-electric-locomotives= 전기 기관차.
+deadlock-electronics= 전기 신호를 결합하고 수정합니다.
+deadlock-filtering= 필터를 통해 배기 가스를 통과 시키면 오염이 줄어 듭니다.
+deadlock-force-fields= 힘장을 반사, 흡수 또는 생성 할 수있는 전자기 장치.
+deadlock-forestry= 자동화 된 나무 재배, 느리지만 꾸준히.
+deadlock-furnaces= 대량의 금속을위한 뜨겁고 내구성있는 용광로.
+deadlock-future-age= 미래가 가까워졌습니다!
+deadlock-grinding= 추가 생산을 위해 광석을 자갈로 분쇄합니다.
+deadlock-holograms= 정보를 표시하여 어떻게 든 빛을 구부립니다.
+deadlock-inserters= 개선 된 조작기. 더 빠르고 똑똑하고 강합니다.
+deadlock-iron-age= 철로 작업 할 때 곧 전자의 힘을 발견 할 것입니다.
+deadlock-minigun-turret= 더 크고, 더 빠르고, 더 멋진 쿨한 적!
+deadlock-mining= 더 빠르고 효율적인 리소스 마이닝.
+deadlock-modules= 프로그래밍 가능한 모듈을 사용하는 기계에 대한 다양한 구성 옵션. 그들은 항상 되 찾을 수 있습니다.
+deadlock-monowheel= 개인용 자동차. 최소의 운반 용량으로 빠르고 무방비 상태입니다.
+deadlock-normal-inserter-capacity-bonus= 비 배치 매니퓰레이터는 한 번에 더 많이 운반됩니다.
+deadlock-nuclear-fuel= 신비한 기술이지만 작동합니다.
+deadlock-photon-turret-damage= 광자 총의 공격력이 증가합니다.
+deadlock-photon-turret= 어뢰 차단!
+deadlock-physical-turret-damage= 탄약으로 포탑의 피해를 증가시킵니다. 탄약 피해 연구와 결합.
+deadlock-radar= 가장 가까운 지역을 전파로 스캔합니다.
+deadlock-research= 고급 과학 연구소.
+deadlock-robot-battery= 드론이 배터리에 저장할 수있는 에너지의 양을 증가시킵니다.
+deadlock-rocket-speed= 로켓 발사기의 발사 속도가 증가합니다.
+deadlock-scrapping= 물체를 조각으로 분해하여 금속이나 유리를 만드는 데 사용합니다.
+deadlock-solar-energy= 태양으로부터 전기를 생성합니다.
+deadlock-space-surveys= 우주 과학에 대한보다 완전한 연구를위한 우주 탐사선 개발.
+deadlock-steam-power= 마지막으로! 증기 기관에 의한 전기 생산.
+deadlock-steel-age= 철보다 내구성이 강한 강철 생산.
+deadlock-steel-wall= 아마도 니퍼가 지불 할 것입니다.
+deadlock-storage= 모든 저장소.
+deadlock-washing= 분쇄 된 광석 처리 기술. 추가 재료를 추출 할 수 있습니다.
+energy-weapons-damage= 레이저 및 기타 에너지 무기의 공격력이 증가합니다.
+engine= 차량을 밀고 무거운 장비를 운전하는 견고한 장비.
+fusion-reactor-equipment= Acme 회사의 악명 높은 "미스터 리액터". 우라늄 연료 전지를 통해 개인 장비를 공급합니다. 아마도 폭발하지 않을 것입니다.
+heavy-armor= 강한 청동 갑옷, 작은 메쉬 장비.
+inserter-capacity-bonus= 일괄 처리기에서 한 번에 운반되는 품목 수를 늘립니다.
+laser-turrets= 큰 구멍을 만듭니다! * 피우 피우 *
+personal-roboport-equipment= 갑옷에 고급 드론 스테이션을 설치합니다.
+physical-projectile-damage= 모든 총알과 샷건 카트리지의 피해량을 증가시킵니다.
+robotics= 물류 구축 및 네트워크 구축을위한 고정식 dronation 생성.
+turrets= 첫 번째 방어선.
+weapon-shooting-speed= 모든 산탄 총알과 카트리지의 발사 속도를 증가시킵니다.
+worker-robots-speed= 건설 및 물류 드론의 속도를 높입니다. 시계 드론에는 영향을 미치지 않습니다.
+
+[modifier-description]
+gun-turret-attack-bonus= 자동 포탑의 데미지 증가 : + __ 1__
+scattergun-turret-attack-bonus= 산탄 총으로 포탑의 데미지 증가 : + __ 1__
+minigun-turret-attack-bonus= 개틀링 기관총으로 포탑의 데미지 증가 : + __ 1__
+photon-torpedo-damage-bonus= 광자 어뢰 피해 증가 : + __ 1__
+belt-damage-bonus= 개틀링의 기관총 데미지 증가 : + __ 1__
+belt-shooting-speed-bonus= 개틀링 기관총으로 포탑의 발사 속도 증가 : + __ 1__
+
+[entity-name]
+assembling-machine-1= 구리 어셈블러
+assembling-machine-2= 전기 조립기
+assembling-machine-3= 레이저 어셈블러
+big-wooden-pole= 큰 나무 전봇대
+bronze-chest= 청동 상자
+bronze-display= 청동 디스플레이
+bronze-forestry= 화력 온실
+bronze-furnace= 청동로
+bronze-grinder= 청동 분쇄기
+bronze-storage-depot= 청동 창고
+burner-mining-drill= 구리 드릴
+chrome-drill= 고급 드릴
+photon-turret= 광자 총
+copper-incinerator= 구리 소각로
+copper-lab= 구리 실험실
+copper-scrapper= 구리 슈레더
+scattergun-turret= 산탄 총 포탑
+deadlock-rubber-tree= 고무 나무
+electric-locomotive= 전기 기차
+flare-stack= 플레어 타워
+gold-chest= 금 상자
+gold-display= 금 디스플레이
+gold-ore= 금 광석
+gun-turret= 포탑
+iron-battery-charger= 충전 배터리
+iron-battery-discharger= 배터리 방전기
+iron-display= 철 디스플레이
+iron-drill= 전기 드릴
+iron-forestry= 전기 온실
+iron-furnace= 전기로
+iron-grinder= 전기 분쇄기
+iron-incinerator= 전기 소각로
+iron-scrapper= 슈레더
+lab= 전기 실험실
+logistics-depot-active= 물류 창고 (능동형,활성)
+logistics-depot-buffer= 물류 창고 (완충,버퍼)
+logistics-depot-passive= 물류 창고 (수동)
+logistics-depot-requester= 물류 창고 (요청)
+logistics-depot-storage= 물류 창고 (보관)
+long-handed-burner-inserter= 긴 화력 투입기
+minigun-turret= 개틀링 기관총 포탑
+monowheel= 모노 휠
+projector-default= 홀로그램 프로젝터
+quantum-lab= 양자 실험실
+small-electric-pole= 나무 전봇대
+small-tank= 버퍼 탱크
+solar-array= 태양 전지
+steambot= 스팀 로봇
+steel-age-furnace= 고급 용광로
+steel-cleaner= 물정화 설비
+steel-electroplater= 크롬 도금 기계
+arc-turret= 전기 아크 터릿
+steel-grinder= 고급 전기 분쇄기
+steel-plate-wall= 철근 벽
+steel-storage-depot= 철강 창고
+steel-tank= 압력 용기
+steel-washer= 처리장
+stone-age-furnace= 돌 용광로
+tin-chest= 주석 상자
+tin-ore= 주석 광석
+medium-electric-pole= 중형 전봇대
+big-electric-pole= 대형 전봇대
+
+[entity-description]
+arc-turret= 살아있는 대상의 신경계를 손상시켜 둔화시킵니다. 손상되지 않습니다.
+bronze-forestry= 연료 임업. 묘목에서 나무를 자랍니다.
+bronze-furnace= 청동 연료 연소로. 중간 수준의 재료를 녹입니다.
+bronze-grinder= 고체 연료 분쇄기. 다양한 광석을 연삭하는 데 사용됩니다.
+burner-mining-drill= 연료 드릴. 파이프와 전선이 없습니다. 연료를 추가하십시오.
+chrome-drill= 고급 전기 드릴. 파이프 연결이 가능합니다.
+copper-incinerator= 물품 소각을위한 설치. 안에있는 모든 아이템을 파괴합니다.
+copper-lab= 고체 연료 과학 실험실. 과학 패키지와의 호환성은 제한적입니다.
+copper-scrapper= 연료 분쇄기. 개체를 조각으로 그라인딩합니다. 금속, 유리 또는 석재가 포함되지 않은 품목은 허용되지 않습니다. 나머지 구성 요소는 파괴됩니다. 효율성은 50-100 % 사이입니다.
+deadlock-adjust-inserters= __CONTROL__deadlock-inserter-dropoff__를 눌러 언로드 위치를 변경할 수 있습니다.
+display= 큰 정보 아이콘,지도의 마크에 첨부 할 수 있습니다. 마우스 오른쪽 버튼을 클릭하여 구성하십시오.
+electric-locomotive= 가연성 열차의 대안. 배터리를 전원으로 사용합니다.
+electric-mining-drill= 전기 드릴. 파이프 연결이 가능합니다.
+flare-stack= 석유 제품을 태 웁니다. 환경을 오염시킵니다.
+gun-turret= 총 포탑 탄약 잡지를 탄약으로 사용합니다. 추가 연구를 통해 피해와 발사 속도를 향상시킬 수 있습니다.
+iron-battery-charger= 배터리 충전 (80 % 에너지 효율, 98-99 % 성공).
+iron-battery-discharger= 배터리를 연결된 전기 네트워크에 공급하여 배터리에서 전기 에너지를 추출합니다 (1 차 에너지 원이없는 경우 작동 함).
+iron-forestry= 전기 임업. 묘목에서 나무를 자랍니다.
+iron-furnace= 전기로. 고급 재료를 녹입니다.
+iron-grinder= 전기 파쇄기. 다양한 광석을 연삭하는 데 사용됩니다.
+iron-incinerator= 전기 버너. 안에있는 모든 아이템을 파괴합니다.
+iron-scrapper= 전기 분쇄기. 개체를 조각으로 그라인딩합니다. 금속, 유리 또는 석재가 포함되지 않은 품목은 허용되지 않습니다. 나머지 구성 요소는 파괴됩니다. 효율성은 50-100 % 사이입니다.
+laser-turret= 원점 복귀 메가 와트 레이저.
+minigun-turret= 고급 기관총 포탑 범위 증가.\n탄약종류 : [font=default][color=1,0.74,0.4]__ITEM__belt__[/color][/font]
+monowheel= 빠르지 만 위험한 모노 휠. 비무장 및 작은 저장 공간. 잘 기동하지만 속도가 느려집니다. 사용하려면 __CONTROL__toggle-driving__을 누르십시오.
+photon-turret=강력한 중거리 포탑. 강하고 전기를 많이 먹습니다.
+projector-default= 이미지를 표면에 투사합니다. 유무선 물류 네트워크 연결을 통해 제어 / 모니터링 할 수 있습니다. 디스플레이는 물류 네트워크의 신호에 따라 색상을 표시 할 수 있습니다.
+quantum-lab= 고도의 병렬 계산을 수행하는 최고의 연구실. 양자 무결성 위반 핵은 에너지의 치명적인 방출로 이어질 수있다.
+scattergun-turret= 침입자에 대한 느리지만 강한 방어
+small-tank= 액체 용 소형 버퍼 탱크. 논리 네트워크와 호환됩니다.
+solar-array= 태양 전지판의 소형 배열. 크기 절약-적은 공간에서 더 많은 에너지.
+steel-age-furnace= 고급 오븐. 최고 속도로 최고 수준의 재료를 녹입니다. 높은 에너지 소비, 높은 오염 및 높은 생산 속도.
+steel-cleaner= 전기 수처리 설비. 더러운 물에서 모든 불순물을 제거합니다.
+steel-electroplater= 전기 코팅기.
+steel-grinder= 전기 분쇄기 개선. 많은 광석과 2 배 빠른 속도로 작업 할 수 있습니다.
+steel-laser-assembler= 전자 부품의보다 효율적인 생산을 위해 정밀 레이저 절단기 / 용접기를 갖춘 고급 특수 목적 어셈블러.
+steel-tank= 더 많은 유체를 담을 수있는 엄청나게 높고 진보 된 탱크.
+steel-washer= 전기 광석 정화기. 다른 재료를 얻을 가능성으로 광석을 정화합니다.
+stone-age-furnace= 석재 연소 스토브. 저수준 재료를 녹입니다.
+storage-tank-pollution=[img=virtual-signal/deadlock-signal-warning] [color=1,0.74,0.4]주의:[/color] 석유 물질, 플라스틱 또는 산을 포함하는이 탱크를 제거하거나 파괴하면 오염 될 수 있습니다.
+
+[recipe-name]
+advanced-heavy-oil-cracking= 고급 연료 가공
+advanced-light-oil-cracking= 고급 디젤 가공
+alloying= __ 1__ (합금)
+basic-oil-processing= 정유
+chemistry= __ 1__ (생산)
+deprogram-module= __ 1__ (포맷)
+dirty-water-cleaning= 물 정화
+heavy-oil-cracking= 연료 유 가공
+laser-assembly= __ 1__ (레이저 조립)
+leaded-fuel= 납 옥탄 연료
+light-oil-cracking= 디젤 가공
+program-module= __ 1__ (프로그래밍)
+rubber-sapling-growth= 고무 나무 성장
+smelting= __ 1__ (재련)
+sulfuric-acid= 황산 생산
+sulphur-processing= 황 처리
+washing= __ 1__ (청소)
+wood-sapling-growth= 자라는 나무
+scrapping= 조리법 갈기
+incinerating= 화상 레시피
+voiding= 화염 연소 레시피
+glass-float= 롤링 유리 시트
+advanced-washing= __ 1__ (산 광석 청소)
+
+[recipe-description]
+advanced-heavy-oil-cracking= 백금 촉매를 사용하여 중유를 디젤로 전환합니다. 촉매는 디젤 연료의보다 효율적인 생산을 가능하게한다. 오염에 대한 처벌은 없습니다.
+advanced-light-oil-cracking= 백금 촉매를 사용하여 디젤을 관련 가스로 가공. 촉매는 관련된 가스의보다 효율적인 생산을 가능하게한다. 오염에 대한 처벌은 없습니다.
+basic-oil-processing= 연료 오일, 디젤 연료 및 관련 가스로의 오일 처리.
+bonus= 생산 기회 :
+coal-liquefaction= 가열 된 연료와 석탄을 혼합하면 디젤 연료와 연료가 방출됩니다.
+component-is-a-tile=[font=default][color=1,0.74,0.4]코팅으로 사용할 수 있습니다.[/color][/font]\n이동 속도: [font=default][color=1,0.74,0.4]__1__%[/color][/font]
+font-wrap-close=[/color][/font]
+font-wrap-open=[font=default][color=1,0.74,0.4]
+heavy-oil-cracking= 디젤로의 연료 유 전환. 낮은 효율. 환경을 오염시킵니다.
+light-oil-cracking= 디젤을 관련 가스로 가공. 낮은 효율. 환경을 오염시킵니다.
+lubricant= 연료 유를 윤활유로 전환합니다.
+material-alloy= 금속 합금
+material-fluid= 유체
+material-fuel-value= 연료량 : [font=default][color=1,0.74,0.4]__1__[/color][/font]
+material-info= 재료 유형 : [font=default][color=1,0.74,0.4]__1__[/color][/font]\n경도: [font=default][color=1,0.74,0.4]__2__[/color][/font]\n전도도: [font=default][color=1,0.74,0.4]__3__[/color][/font]\n강도: [font=default][color=1,0.74,0.4]__4__[/color][/font]
+material-metallic= 금속
+material-non-metallic= 비금속
+material-pollution= 연료 오염 : [font=default][color=1,0.74,0.4]__1__[/color][/font]
+redundant=[img=virtual-signal/deadlock-signal-warning] [color=1,0.74,0.4]이 제품의 사용법을 알 수 없습니다.[/color]
+scale-1= 매우 낮음
+scale-2= 낮음
+scale-3= 중간
+scale-4= 높음
+scale-5= 매우 높음
+nuclear-fuel-reprocessing= 핵연료를 재 처리하여 생산에 소비 된 일부 원소를 추출합니다. 표시된 수량은 대략적인 것입니다.
+
+[ammo-category-name]
+belt= 기관총 카트리지
+bullet= 가게
+photon-torpedo= 광자 어뢰
+shotgun-shell= 산탄 총 카트리지
+
+[virtual-signal-name]
+deadlock-signal-cross= 신호 취소
+deadlock-signal-warning= 경고 신호
+deadlock-signal-danger= 위험 신호
+deadlock-signal-help= 도움말 신호
+signal-orange= 주황색 신호
+
+[autoplace-control-names]
+tin-ore= 주석 광석
+gold-ore= 금 광석
+deadlock-rubber-trees= 고무 나무
+
+[autoplace-control-descriptions]
+deadlock-rubber-trees= 고무 나무는 따뜻하고 습한 생물 군계를 좋아합니다. 로켓 발사에는 고무가 필요하지 않지만 삶의 질을 향상시키는 것이 매우 필요합니다.
+
+[tile-name]
+stone-gravel= 자갈
+carbon-gravel= 지상 석탄 코팅
+tin-gravel= 분쇄 된 주석 도금
+copper-gravel= 분쇄 된 구리 도금
+iron-gravel= 분쇄 된 철 코팅
+gold-gravel= 분쇄 된 금도금
+
+[fuel-category-name]
+battery= 배터리
+
+[mod-setting-name]
+deadlock-industry-starting-age= 초기 연령
+deadlock-industry-starting-kit= 보너스 아이템
+deadlock-industry-laser-colour= 레이저 색상
+deadlock-industry-hide-redundancies= 과도한 레시피 숨기기
+deadlock-industry-tip-frequency= 팁 빈도
+deadlock-industry-inserter-adjustment= 사용자 정의 가능한 조작기
+deadlock-industry-vanilla-ores= 원래 광석 아이콘 사용
+deadlock-industry-research-notifications= 연구 채팅 알림
+deadlock-industry-genman-pingemptyslot= 생성기 : 빈 슬롯에 대해 경고
+deadlock-industry-genman-pingnofuel= 발전기 : 연료가 없을 때 경고
+deadlock-industry-genman-pingnoinv= 발전기 : 재고가 가득 차면 경고
+deadlock-industry-genman-inventorysounds= 발전기 : 인벤토리 소리
+deadlock-industry-genman-pingsounds= 발전기 : 경고음
+deadlock-industry-enable-burner-leech= 자동 연료 검색
+deadlock-industry-building-scrap= 건물 철거로 인한 폐기물
+
+[mod-setting-description]
+deadlock-industry-starting-age= 석기 시대에서 기본적으로 시작할지 또는 전체 기술 수준을 사전 탐색할지 선택합니다. 새로운 게임 제작에만 영향을 미칩니다.
+deadlock-industry-starting-kit= 게임을 시작할 때 스타터 키트를 활성화합니다. 새로운 게임 제작에만 영향을 미칩니다.
+deadlock-industry-laser-colour= 레이저 빔의 색상을 선택하십시오.
+deadlock-industry-hide-redundancies= 플레이어의 인벤토리 탭에서 사용하지 않는 아이템을 숨겨서 수동 제작에 액세스 할 수 없습니다. 잠금 해제를 위해 기술 트리에 계속 표시됩니다.
+deadlock-industry-tip-frequency= 힌트는 주기적으로 얼마나 자주 표시됩니까?
+deadlock-industry-inserter-adjustment=이 옵션을 사용하면 단축키를 사용하여 삽입 위치를 구성 할 수 있습니다. 다른 삽입 모드를 사용하려면이 기능을 비활성화하십시오.
+deadlock-industry-vanilla-ores= 가능한 경우 기본 버전의 광석 아이콘과 스프라이트를 사용하십시오.
+deadlock-industry-research-notifications= 연구가 완료되면 채팅 메시지를 보냅니다. 게임의 기본 설정에서 채팅 알림 소리를 끌 수 있습니다.
+deadlock-industry-genman-pingemptyslot= 발전기에 빈 연료 탱크가 있으면 경고합니다. 제너레이터 제어가 활성화 된 경우 (빠른 액세스 패널 옆)에만 표시됩니다.
+deadlock-industry-genman-pingnofuel= 발전기에 연료가 부족하면 경고합니다. 제너레이터 제어가 활성화 된 경우 (빠른 액세스 패널 옆)에만 표시됩니다.
+deadlock-industry-genman-pingnoinv= 발전기에 사용 후 핵연료를 넣을 곳이없는 경우 경고합니다. 제너레이터 제어가 활성화 된 경우 (빠른 액세스 패널 옆)에만 표시됩니다.
+deadlock-industry-genman-inventorysounds= 재고로 이동할 때 삐걱 거리는 소리가 재생됩니다.
+deadlock-industry-genman-pingsounds= 모든 경고음이 울립니다.
+deadlock-industry-enable-burner-leech= "연료 거머리"라고도하는이 옵션을 사용하면 모든 장치의 모든 슬롯이나 컨베이어에서 연료를 가져 와서 고체 연료 매니퓰레이터가 자체적으로 연료를 보급 할 수 있습니다.
+deadlock-industry-building-scrap= 교착 상태가되면 건물은 파괴 될 때 재료로 가공 될 수있는 잔해와 조각 (폐기물) 형태로 재료를 남겨 둡니다. 이것은 성가신 일이 될 수 있으며 무언가를 다시 만들 수있는 유연성으로 인해 매우 유용 할 수 있습니다.
+
+[string-mod-setting]
+deadlock-industry-starting-age-stone-age= 석기 시대
+deadlock-industry-starting-age-bronze-age= 청동기 시대
+deadlock-industry-starting-age-iron-age= 철기 시대
+deadlock-industry-starting-age-steel-age= 철강 시대
+deadlock-industry-starting-age-chrome-age= Chrome 연령
+deadlock-industry-starting-age-future-age= 미래의 시대
+deadlock-industry-laser-colour-red=[font=default-bold][color=1,0.333,0.333]빨강[/color][/font]
+deadlock-industry-laser-colour-orange=[font=default-bold][color=1,0.667,0.333]주황[/color][/font]
+deadlock-industry-laser-colour-yellow=[font=default-bold][color=1,1,0.333]노랑[/color][/font]
+deadlock-industry-laser-colour-lime=[font=default-bold][color=0.667,1,0.333]라임[/color][/font]
+deadlock-industry-laser-colour-green=[font=default-bold][color=0.333,1,0.333]초록[/color][/font]
+deadlock-industry-laser-colour-teal=[font=default-bold][color=0.333,1,0.667]청록[/color][/font]
+deadlock-industry-laser-colour-cyan=[font=default-bold][color=0.333,1,1]시안[/color][/font]
+deadlock-industry-laser-colour-azure=[font=default-bold][color=0.333,0.667,1]푸른[/color][/font]
+deadlock-industry-laser-colour-blue=[font=default-bold][color=0.333,0.333,1]파랑[/color][/font]
+deadlock-industry-laser-colour-violet=[font=default-bold][color=0.667,0.333,1]바이올렛[/color][/font]
+deadlock-industry-laser-colour-magenta=[font=default-bold][color=1,0.333,1]마젠타[/color][/font]
+deadlock-industry-laser-colour-pink=[font=default-bold][color=1,0.333,0.667]핑크[/color][/font]
+deadlock-industry-tip-frequency-0= 절대
+deadlock-industry-tip-frequency-10= 10 분마다
+deadlock-industry-tip-frequency-30= 30 분마다
+deadlock-industry-tip-frequency-60= 매 시간
+
+[shortcut-name]
+deadlock-industry-generator-manager= 발전기 관리 전환 (하드웨어)
+
+[deadlock-industry-commands]
+tip= 산업 혁명에 대한 팁을 얻으십시오.
+
+[controls]
+deadlock-inserter-dropoff= 조작기 언로드 위치 변경
+deadlock-control-generator-manager= 발전기 제어 전환 (하드웨어)
+display-map-marker= 맵 마커
+display-alpha-toggle= 영숫자
+deadlock-turret-angle-toggle= 터렛 발사 영역 토글
+
+[description]
+used-to-mine-paths= 바닥 타일을 제거하는 데 사용할 수 있습니다.
+
+[gui-title]
+smelting= 제련 레시피 선택
+grinding= 분쇄를위한 레시피 선택
+washing= 청소를위한 레시피 선택
+electroplating= 전기 분해를위한 레시피 선택
+chemistry= 화학 레시피 선택
+projector= 투사 선택
+
+[notification]
+research-complete= 리서치 완료 : [img=technology/__1__] [font=dir2-font]__2__. __3__[/font]
